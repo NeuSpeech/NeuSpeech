@@ -9,14 +9,15 @@
 
 Collaborators now:
 
-Yiqun Duan 
 
-[![Yiqun Duan](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/duanyiqun)
+Yiqun Duan (duanyiqun)
+[Yiqun Duan](https://github.com/duanyiqun)
 
-Hyejeong Jo 
+Hyejeong Jo (girlsending0)
+[Hyejeong Jo](https://github.com/girlsending0)
 
-[![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlsending0)](https://github.com/girlsending0)
-
+Qiang Zhang (jonyzhang2023)
+[Qiang Zhang](https://github.com/jonyzhang2023)
 <!--
 **NeuSpeech/NeuSpeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
