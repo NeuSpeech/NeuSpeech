@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Yiqian Yang, running this orgnisation NeuSpeech.
+
+- 🔭 I’m currently working on different types of neural signal.
+- 👯 I’m looking to collaborate on fine-grained MEG-to-speech.
+- 📫 How to reach me: yyang937@connect.hkust-gz.edu.cn
+- ⚡ Fun fact: my cat can do back-flip.
+
+[![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuSpeech)]()
+Collaborators now:
+Yiqun Duan [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/duanyiqun)
+Hyejeong Jo [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/girlsending0)
 
 <!--
 **NeuSpeech/NeuSpeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
