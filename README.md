@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yiqian Yang, running this orgnisation NeuSpeech.
 
-- 🔭 I’m currently working on different types of neural signal and unified neural model.
+- 🔭 I’m currently working on different types of neural signal and unified neural model. I am really interested in this.
 - 👯 I’m looking to collaborate on fine-grained MEG-to-speech, unified neural model.
 - 📫 How to reach me: yyang937@connect.hkust-gz.edu.cn
 - ⚡ Fun fact: my cat can do back-flip.
