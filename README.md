@@ -8,7 +8,8 @@
 [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuSpeech)]()
 Collaborators now:
 Yiqun Duan [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/duanyiqun)
-Hyejeong Jo [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/girlsending0)
+
+Hyejeong Jo [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlsending0)](https://github.com/girlsending0)
 
 <!--
 **NeuSpeech/NeuSpeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
