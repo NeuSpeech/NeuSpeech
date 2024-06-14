@@ -7,7 +7,7 @@
 
 [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuSpeech)]()
 Collaborators now:
-Yiqun Duan [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/duanyiqun)
+ [![Yiqun Duan](https://github-readme-stats.vercel.app/api?username=duanyiqun)](https://github.com/duanyiqun)
 
 Hyejeong Jo [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlsending0)](https://github.com/girlsending0)
 
