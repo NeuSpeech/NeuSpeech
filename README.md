@@ -3,7 +3,11 @@
 - 🔭 I’m currently working on different types of neural signal and unified neural model. I am really interested in this.
 - 👯 I’m looking to collaborate on fine-grained MEG-to-speech, unified neural model.
 - 📫 How to reach me: yyang937@connect.hkust-gz.edu.cn
-- ⚡ Fun fact: I don't have a cat.
+
+有隐藏项目，急需投资人。已实现类似于neuralink的操作系统，他们目前只能操控鼠标，但是我们可以同时操控键鼠。微信号：wordskeeper45
+
+There is a hidden project that urgently needs investors. We have implemented an operating system similar to Neuralink, which can control the mouse, but we can also control the keyboard and mouse simultaneously. 
+
 
 [![NeuSpeech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuSpeech)]()
 
